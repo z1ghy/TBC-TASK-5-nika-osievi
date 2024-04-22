@@ -1,0 +1,325 @@
+
+
+.logo {
+	width: 223px;
+	vertical-align: middle;
+	padding-right: 60px;
+	margin-left: 63px ;
+	display: inline-block;
+	
+}
+
+header {
+	margin-top: 41px;
+}
+
+
+
+.header-item {
+	font-size: 26px;
+	font-weight: 700;
+	color: #8D81FF;
+	font-weight: bold;
+	display: inline-block;
+	padding-bottom: 56px;
+	
+	
+	
+	
+
+	
+}
+
+
+.fullsection {
+	margin-left: 52px;
+}
+
+
+.secondpagefooter {
+	margin-left: 194px;
+}
+
+
+
+
+nav   {
+	display: inline-block;
+	
+	
+}
+
+
+
+
+
+.main-color {
+	color: #4E6FAE;
+}
+
+.line1 {
+	width: 2px;
+	height: 48px;
+	display: inline-block;
+	background: #5012D5;
+	margin-left: 48px;
+	margin-right: 48px;
+}
+
+.date {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	font-size: 24px;
+	color: #84FF81;
+	text-align: center;
+	line-height: 50px ;
+}
+
+.month {
+	font-size: 24px;
+	color: #8D81FF;
+}
+
+.section-header {
+	font-size: 20px;
+	font-weight: bold;
+	color: #4E6FAE;
+}
+
+.section-description1 {
+	font-size: 16px;
+	line-height: 19.2px;
+	color: #4E6FAE;
+	width: 778px;
+	display: inline-block;
+	height: 400px;
+	
+	
+	
+}
+
+.section-description2 {
+	font-size: 16px;
+	line-height: 19.2px;
+	color: #4E6FAE;
+	display: inline-block;
+	width: 778px;
+	height: 280px;
+
+	
+	
+	
+	
+}
+
+
+.section-description3 {
+	font-size: 16px;
+	line-height: 19.2px;
+	color: #4E6FAE;
+	width: 1021px;
+	height: 148px;
+	padding-top: 32px;
+	
+}
+
+
+.section-img {
+	padding-right: 63px;
+}
+
+.FBYTLOGO {
+	padding-top: 36px ;
+}
+
+
+.Information {
+	font-size: 36px;
+	text-align: center;
+	color: #4E6FAE;
+	font-weight: 700;
+	line-height: 43.96px;
+	display: inline;
+	
+	
+}
+
+
+.Contact {
+	margin-top: 27px;
+	
+	
+}
+
+
+span {
+	color: #7E8898;
+	font-size: 20px;
+	font-weight: 400;
+	
+	
+}
+
+
+.ContactContainer {
+	width:1700px;
+	height:735px;
+	background-color:#E7E7E7 ;
+	padding:93px 40px 93px 163px;
+	display: inline-block;
+	
+}
+
+
+
+.ContactContainer div {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.child-container {
+	margin-right: 40px;
+}
+
+
+
+
+.news-padding {
+
+	padding-left: 87px;
+	padding-right: 87px;
+	
+}
+
+#newshtmllogo {
+	padding-left: 194px ;
+	padding-bottom: 120px ;
+}
+
+.newsh1 {
+	color: #4E6FAE;
+	font-size: 26px ;
+	font-weight: 700 ;
+	line-height: 31.2px ;
+	display: inline-block;
+	padding-left: 194px;
+	vertical-align: middle;
+	
+
+;
+}
+
+.line2 {
+
+	width: 2px;
+	height: 24px;
+	background-color:#5012D5 ;
+	display: inline-block;
+	margin-left: 18px;
+	margin-right: 18px;
+	vertical-align: middle;
+
+	
+
+}
+
+.newsh2 {
+	color: #4E6FAE ;
+	font-size: 26px;
+	font-weight: 400px;
+	line-height: 31.2px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+.container {
+	width: 460px;
+	height: 160px;
+	background-color:#E7E7E7;
+	margin-top: 26px;
+	padding: 20px;
+	margin-left: 194px;
+	margin-right: 52px;
+	
+	
+	
+
+}
+
+
+.container h3 {
+	color: #3F4145;
+	font-size: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+.container p {
+	color: #7E8898;
+	font-size: 16px;
+	display: inline-block;
+	width: 335px;
+	height: 95px;
+	line-height: 19.31px;
+	vertical-align: middle;
+
+}
+
+
+
+.container img {
+	margin-right: 37px;
+	vertical-align: middle;
+
+	
+}
+
+
+.container2 {
+	
+	width: 460px;
+	height: 160px;
+	background-color:#E7E7E7;
+	margin-top: 26px;
+	padding: 20px;
+			
+
+}
+
+
+.container2 h3 {
+	color: #3F4145;
+	font-size: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+.container2 p {
+	color: #7E8898;
+	font-size: 16px;
+	display: inline-block;
+	width: 335px;
+	height: 95px;
+	line-height: 19.31px;
+	vertical-align: middle;
+
+}
+
+
+
+.container2 img {
+	margin-right: 21px;
+	vertical-align: middle;
+
+	
+}
+
+.Fullcontainer {
+	display: flex;
+}
+	
+
