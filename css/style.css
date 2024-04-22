@@ -7,7 +7,7 @@
 
 
 nav {
-	font-family: "Jacquard 24", system-ui;
+	font-family: "Jacquard 24", sans-serif;
 	
 }
 
@@ -16,7 +16,9 @@ nav {
 	font-family: "Jersey 10", sans-serif;
 }
 
-
+.ContactContainer {
+	font-family: "Pacifico", sans-serif;
+}
 
 
 
